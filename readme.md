@@ -1,28 +1,19 @@
-# This is a large heading
+# Akash Kumar
 
-## This is a smaller heading
+## Geography
+Delhi, India.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## Occupation
+Student. Pursuing B.tech in Civil Engineering.
 
-- This is
-- an unordered
-- list
+## Food
 
-1. This is
-2. an ordered
-3. list
+- **Chowmein** with Cabbage
+- Rajma Rice
+- Chicken
 
-Here is `some code` in the middle of a sentence.
+## Contact
+[LinkedIn](https://www.linkedin.com/in/akash-kumar-6286061a4/)
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+## Photo
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEOgbJj8Ung7A/profile-displayphoto-shrink_800_800/0?e=1599091200&v=beta&t=qSoouADgTNzwRpnHWpsqWN3sNd3tlznrs7QZuX__3uM" alt="Akash Kumar" align="middle">
