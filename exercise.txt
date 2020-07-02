@@ -1,5 +1,0 @@
-Hi. My name is mayank.
-I am taking a course on unix and git.
-this course is very helpful.
-I want to be a data scientist
-wish me good luck
